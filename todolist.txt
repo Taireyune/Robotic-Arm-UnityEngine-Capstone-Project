@@ -1,0 +1,15 @@
+dynamically load subjects
+    __________load objects with additional information from json file
+    __________hard and easy difficulty choice
+    __________variable target size and location based on difficulty
+    __________variable subject start position and count based on difficulty
+
+__________cube check reach target
+__________objects destroyed when reach target or fall off plane
+game end if subjects fall off or all subject reach target
+
+    
+
+
+event handling
+    https://stackoverflow.com/questions/42034245/unity-eventmanager-with-delegate-instead-of-unityevent
