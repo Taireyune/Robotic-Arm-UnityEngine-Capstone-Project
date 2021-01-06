@@ -2,8 +2,7 @@
 Robotic Arm - If I have a robotic arm - is my Keystone project from the Coursera Unity specialization. This was built for applications in machine learning and is not intended for entertainment purposes (though pushing things around in-game is oddly addictive sometimes).
 <img 
 src="https://github.com/Taireyune/multi-cam-pose/blob/master/images/push_object.gif" 
-width="810" height="500" alt="single camera GUI"
->
+width="434" height="259" alt="push object">
 
 ## Requirements
 - Windows 10
