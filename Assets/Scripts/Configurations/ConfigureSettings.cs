@@ -130,32 +130,32 @@ public class ConfigureSettings
             },           
             { "Shoulder", new Dictionary<string, string>()
                 {
-                    { "angle_min", "-150" },
-                    { "angle_max", "150"  }, 
-                    { "force_multiplier", "100" },
-                    { "target_velocity", "100" }
+                    { "angle_min", "-200" },
+                    { "angle_max", "200"  }, 
+                    { "force_multiplier", "30" },
+                    { "target_velocity", "50" }
                 }
             },
             { "Arm_segment", new Dictionary<string, string>()
                 {
-                    { "angle_min", "-150" },
-                    { "angle_max", "150"  }, 
+                    { "angle_min", "-30" },
+                    { "angle_max", "60"  }, 
                     { "force_multiplier", "80" },
                     { "target_velocity", "100" }
                 }
             },
             { "Forarm_segment", new Dictionary<string, string>()
                 {
-                    { "angle_min", "-150" },
-                    { "angle_max", "150"  }, 
+                    { "angle_min", "-30" },
+                    { "angle_max", "120"  }, 
                     { "force_multiplier", "50" },
                     { "target_velocity", "200" }
                 }
             },
             { "Hand_segment", new Dictionary<string, string>()
                 {
-                    { "angle_min", "-150" },
-                    { "angle_max", "150"  }, 
+                    { "angle_min", "-90" },
+                    { "angle_max", "90"  }, 
                     { "force_multiplier", "50" },
                     { "target_velocity", "50" }
                 }
