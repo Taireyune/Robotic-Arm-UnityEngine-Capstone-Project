@@ -1,6 +1,6 @@
 # Robotic-Arm-UnityEngine-Keystone-Project
 <img 
-src="https://github.com/Taireyune/Robotic-Arm-UnityEngine-Keystone-Project/blob/master/images/push_object.gif" 
+src="https://github.com/Taireyune/Robotic-Arm-UnityEngine-Keystone-Project/blob/master/Images/push_object.gif" 
 width="434" height="259" alt="push object">
 Robotic Arm - If I have a robotic arm - is my Keystone project from the Coursera Unity specialization. This was built for applications in machine learning and is not intended for entertainment purposes (though pushing things around in-game is oddly addictive sometimes).
 
