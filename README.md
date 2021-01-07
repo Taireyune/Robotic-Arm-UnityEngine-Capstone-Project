@@ -19,6 +19,7 @@ Add this folder to the Unity Hub Projects. Open the project using Unity version 
 - When object move within target bounds, object is destroyed and 'target-reached' signal is broadcasted
 - csv file with settings for arm angle limits, number of objects to spawn etc
 - Boilerplate menu system (to satisfy Keystone requirements)
+
 The robotic arm uses torque (effort) instead of kinematics to achieve its motions by design. Although this makes the simulation very hard to control using the keyboard, the effort based control has useful implications in motor control and motor learning. 
 
 ## Additional info
