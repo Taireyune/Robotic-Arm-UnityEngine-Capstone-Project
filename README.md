@@ -19,6 +19,7 @@ Add this folder to the Unity Hub Projects. Open the project using Unity version 
 - When object move within target bounds, object is destroyed and 'target-reached' signal is broadcasted
 - csv file with settings for arm angle limits, number of objects to spawn etc
 - Boilerplate menu system (to satisfy Keystone requirements)
+The robotic arm uses torque (effort) instead of kinematics to achieve its motions by design. Although this makes the simulation very hard to control using the keyboard, the effort based control has useful implications in motor control and motor learning. 
 
 ## Additional info
-Note this version of the simulation uses Unity Physics Engine; a more customizable Physics simulation framework is available. Stay tuned for the simulation in Ubuntu 18.04 with more adjustable parameters, and connectors to use ROS and ZMQ commmunications.
+This version of the simulation uses Unity Physics Engine; a more customizable Physics simulation framework is available. Stay tuned for the simulation in Ubuntu 18.04 with more adjustable parameters, and connectors to use ROS and ZMQ commmunications.
