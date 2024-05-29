@@ -1,4 +1,4 @@
-# Robotic-Arm-UnityEngine-Keystone-Project
+# Robotic-Arm-UnityEngine-Capstone-Project
 Robotic Arm - If I have a robotic arm - is my Keystone project from the Coursera Unity specialization. This was built for applications in machine learning and is not intended for entertainment purposes (though pushing things around in-game is oddly addictive sometimes).
 
 <img 
